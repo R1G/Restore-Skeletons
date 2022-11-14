@@ -1,6 +1,6 @@
 # Restore-Skeletons
 A simple tool that analyzes a Maya scene and stores and restores all joint hierarchies.<br> 
-Stores all hierarchies, bones, index order, and complete transform with joint orientation<br>
+Stores all hierarchies, bones, index order, and complete transform with joint orientation.<br>
 Restores any deleted joints, and reuses existing joints whenever possible.<br>
 
 ## Instructions
